@@ -4,7 +4,6 @@
  (flags (:standard -w -26-32-27-69-34-37-33))
  (libraries
    ocaml-fsrs
-   base
    timedesc
  )
 )

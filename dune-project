@@ -23,7 +23,6 @@
  (description "A library implementing the FSRS (Free Spaced Repetition Scheduler) algorithm in OCaml.")
  (depends
    ocaml
-   base
    timedesc
  )
  (tags ("fsrs")))
