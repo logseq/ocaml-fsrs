@@ -5,7 +5,6 @@
  (libraries
    ocaml-fsrs
    alcotest
-   base
    timedesc
  )
 )
