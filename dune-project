@@ -24,5 +24,6 @@
  (depends
    ocaml
    timedesc
+   ppx_deriving
  )
  (tags ("fsrs")))
